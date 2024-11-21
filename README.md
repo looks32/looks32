@@ -6,9 +6,13 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-[![Dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=looks32)](https://github.com/looks32/github-readme-stats)
+
 
 <!--
+
+// 나중에 괜찮아지면 올리기
+[![Dang's GitHub stats](https://github-readme-stats.vercel.app/api?username=looks32)](https://github.com/looks32/github-readme-stats)
+
 **looks32/looks32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
